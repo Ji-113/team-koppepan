@@ -1,18 +1,18 @@
 html,body {
-  font-family:"Noto Serif Japanese","Zen Old Mincho",serif;
-  font-style: normal;
+  font-family: "Noto Serif Japanese","Zen Old Mincho",serif;
+  font-style:  normal;
 }
 
 img{
-    -webkit-touch-callout:none;
-    -webkit-user-select:none;
-    -moz-touch-callout:none;
-    -moz-user-select:none;
-    user-select:none;
-    margin:auto;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-touch-callout: none;
+    -moz-user-select: none;
+    user-select: none;
+    margin: auto;
     display: block;
 }
 
 .footer {
-  text-align:center;
+  text-align: center;
 }
